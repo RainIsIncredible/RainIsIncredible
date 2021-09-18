@@ -1,4 +1,6 @@
 # that's me
-i do programming for fun
+I do programming for fun
+Learning C/C++ and web development 
+He/Him
 
 > the j 😨
